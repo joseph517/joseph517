@@ -16,23 +16,6 @@
 
 I'm a passionate **Full Stack Developer** based in Cartagena, Colombia, specializing in building robust enterprise solutions with **.NET Core 8** and **Angular**. With extensive experience in microservices architecture, REST APIs, and cloud technologies, I focus on delivering scalable and maintainable software solutions.
 
-```csharp
-public class Developer
-{
-    public string Name { get; } = "Álvaro José Vergara García";
-    public string Role { get; } = "Full Stack Developer";
-    public string[] Specializations { get; } = 
-    {
-        ".NET Core 8",
-        "Angular 16+",
-        "React",
-        "Microservices",
-       
-    };
-    public string CurrentFocus { get; } = "Building scalable enterprise solutions";
-}
-```
-
 ## 🛠️ Tech Stack
 
 ### Backend
@@ -84,12 +67,6 @@ public class Developer
 - 🔄 **CI/CD Implementation** - Automated deployment pipelines
 - 📝 **Technical Documentation** - Comprehensive API and system documentation
 - 🏃‍♂️ **Agile Methodologies** - Scrum, Sprint planning, Daily standups
-
-
-## 🌐 Languages
-
-- 🇪🇸 **Spanish** - Native
-- 🇬🇧 **English** - Professional Working Proficiency
 
 ## 📫 Get in Touch
 
