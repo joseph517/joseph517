@@ -14,7 +14,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** based in Cartagena, Colombia, specializing in building robust enterprise solutions with **.NET Core 8** and **Angular**. With extensive experience in microservices architecture, REST APIs, and cloud technologies, I focus on delivering scalable and maintainable software solutions.
+I'm a **Full Stack Developer** based in Cartagena, Colombia 🇨🇴, with 3+ years of experience building web applications using **.NET Core, Angular, Python/Django, and React**. I enjoy working on both frontend and backend, integrating REST APIs, and collaborating in agile Scrum teams.
+
+I have contributed to enterprise projects involving relational databases (SQL Server, PostgreSQL), Docker deployments, and version control with Git. I'm always looking to learn, write clean code, and deliver solutions that actually work in production.
+
+📍 Open to remote opportunities.
 
 ## 🛠️ Tech Stack
 
@@ -36,18 +40,15 @@ I'm a passionate **Full Stack Developer** based in Cartagena, Colombia, speciali
   <img src="https://img.shields.io/badge/Angular_Material-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </div>
 
-### Database & Cloud
+### Database
 <div align="left">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
 ### DevOps & Tools
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -59,14 +60,12 @@ I'm a passionate **Full Stack Developer** based in Cartagena, Colombia, speciali
 ### Architecture & Design
 - 🏗️ **Microservices Architecture** - Design and implementation of distributed systems
 - 🎨 **Clean Architecture** - Applying SOLID principles and design patterns
-- 🔄 **RESTful API Design** - Creating scalable and maintainable APIs
-- 📐 **System Design** - Enterprise-level architecture planning
+- 🔄 **REST API Development** - Backend and frontend integration
 
 ### Development Practices
-- ✅ **Test-Driven Development** - Unit testing, integration testing
-- 🔄 **CI/CD Implementation** - Automated deployment pipelines
-- 📝 **Technical Documentation** - Comprehensive API and system documentation
 - 🏃‍♂️ **Agile Methodologies** - Scrum, Sprint planning, Daily standups
+- 📝 **Technical Documentation** - Comprehensive API and system documentation
+- 📐 **Github & collaborative workflows**
 
 ## 📫 Get in Touch
 
