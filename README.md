@@ -1,7 +1,7 @@
 # Hi there, I'm Álvaro José Vergara García 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;.NET+Core+%7C+Angular+Specialist;Microservices+Architect;DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A0DAD&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Angular+%7C+React+%7C+.NET+Core+%7C+Python;REST+APIs+%26+Web+Apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** based in Cartagena, Colombia 🇨🇴, with 3+ years of experience building web applications using **.NET Core, Angular, Python/Django, and React**. I enjoy working on both frontend and backend, integrating REST APIs, and collaborating in agile Scrum teams.
+I'm a **Full Stack Developer** based in Cartagena, Colombia, with 3+ years of experience building web applications using **.NET Core, Angular, Python/Django, and React**. I enjoy working on both frontend and backend, integrating REST APIs, and collaborating in agile Scrum teams.
 
 I have contributed to enterprise projects involving relational databases (SQL Server, PostgreSQL), Docker deployments, and version control with Git. I'm always looking to learn, write clean code, and deliver solutions that actually work in production.
 
